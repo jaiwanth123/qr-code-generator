@@ -1,1 +1,1 @@
-# qr-code-generator
+this is an simon game web application ,it is an game  of patterns .we should chose colour patterns given by computer.if we chose wrong we should start from first.the number of colours in single pattern keep on increasing for every pattern
